@@ -437,7 +437,7 @@ Interactive admin dashboard with analytics and management features.
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/tailwind-css-mastery.git
+git clone https://github.com/ashishkumar-00/tailwind-css-mastery.git
 cd tailwind-css-mastery
 
 # Install dependencies
